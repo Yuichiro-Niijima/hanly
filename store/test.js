@@ -30,4 +30,3 @@ function getValueAfter100ms(txt) {
     }, 100)
   })
 }
-
